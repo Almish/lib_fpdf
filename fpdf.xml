@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="library" version="3.0" method="upgrade">
+	<name>FPDF</name>
+	<libraryname>fpdf</libraryname>
+	<version>1.7</version>
+	<description>LIB_FPDF_XML_DESCRIPTION</description>
+	<creationDate>January 2013</creationDate>
+	<copyright>Copyright (C) 2013 AtomTech, Inc. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<author>Bruno Batista</author>
+	<authorEmail>bruno@atomtech.com.br</authorEmail>
+	<authorUrl>http://www.atomtech.com.br</authorUrl>
+	<packager>fpdf</packager>
+	<packagerurl>http://www.atomtech.com.br</packagerurl>
+	<updateservers>http://www.atomtech.com.br/update</updateservers>
+	<files folder="fpdf">
+		<filename>changelog.htm</filename>
+		<filename>FAQ.htm</filename>
+		<filename>fpdf.css</filename>
+		<filename>fpdf.php</filename>
+		<filename>index.html</filename>
+		<filename>install.txt</filename>
+		<filename>license.txt</filename>
+		<folder>font</folder>
+		<folder>makefont</folder>
+	</files>
+	<languages>
+		<language tag="pt-BR">language/pt-BR/pt-BR.lib_fpdf.sys.ini</language>
+	</languages>
+</extension>
