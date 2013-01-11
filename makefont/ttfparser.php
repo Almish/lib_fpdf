@@ -1,4 +1,7 @@
 <?php
+// No direct access.
+defined('_JEXEC') or die;
+
 /*******************************************************************************
 * Utility to parse TTF font files                                              *
 *                                                                              *
