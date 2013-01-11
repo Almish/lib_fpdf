@@ -7,6 +7,14 @@ FPDF Library helps applications to generate PDF files for CMS Joomla! 3.0.
 
 Just download and install.
 
+## Usage
+
+Add this code to head of file to import FPDF class:
+
+jimport('fpdf.fpdf');
+
+* [FPDF Manual](http://www.fpdf.org/en/doc/index.php)
+
 ## Authors
 
 * Bruno Batista
